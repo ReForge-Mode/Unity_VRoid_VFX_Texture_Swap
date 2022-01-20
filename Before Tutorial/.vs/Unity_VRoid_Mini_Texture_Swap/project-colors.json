@@ -1,0 +1,36 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "48ab2e5a-0d51-70b8-e5f9-6b679474d64b": {
+      "ProjectGuid": "48ab2e5a-0d51-70b8-e5f9-6b679474d64b",
+      "DisplayName": "Assembly-CSharp",
+      "ColorIndex": 0
+    },
+    "5a2eab48-510d-b870-e5f9-6b679474d64b": {
+      "ProjectGuid": "5a2eab48-510d-b870-e5f9-6b679474d64b",
+      "DisplayName": "Assembly-CSharp",
+      "ColorIndex": 1
+    },
+    "bdd87d69-0759-de25-3758-6ffc341e29d0": {
+      "ProjectGuid": "bdd87d69-0759-de25-3758-6ffc341e29d0",
+      "DisplayName": "MToon",
+      "ColorIndex": 2
+    },
+    "c0857898-4a75-57e5-a89e-06ef323c91f5": {
+      "ProjectGuid": "c0857898-4a75-57e5-a89e-06ef323c91f5",
+      "DisplayName": "VRM",
+      "ColorIndex": 3
+    },
+    "2be73099-f74c-a013-9c67-a6f3c8779c7e": {
+      "ProjectGuid": "2be73099-f74c-a013-9c67-a6f3c8779c7e",
+      "DisplayName": "Scripts",
+      "ColorIndex": 4
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    }
+  },
+  "NextColorIndex": 5
+}
