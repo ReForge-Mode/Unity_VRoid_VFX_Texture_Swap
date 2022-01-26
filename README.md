@@ -4,6 +4,8 @@ In this tutorial, you'll learn how to change eye and clothes texture of your VRo
 Huge credit to these guys who made this possible!
 - UniVRM plugin: https://github.com/vrm-c/UniVRM
 
+<img src="https://github.com/FFaUniHan/Unity_VRoid_VFX_Texture_Swap/blob/main/Demo.gif" width=100% height=100%>
+
 # Instructions
 Once you download and extract the zip file or clone the project to your Git application, open it in Unity Hub. If you want to follow along the tutorial, use the Before Tutorial folder. But if you just want the final result, use the After Tutorial folder.
 
