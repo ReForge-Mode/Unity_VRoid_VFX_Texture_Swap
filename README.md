@@ -14,4 +14,4 @@ This project uses Unity version 2021.2.3f, earlier versions of Unity might not w
 # Tutorial Video
 If you want to follow along with this tutorial, here is my tutorial video! I make this kind of tutorial every month, so if you like it, be sure to subscribe!
 
-[![How to Export VRoid Studio Models to Unity in 7 Minutes or Less (3D/URP/HDRP)](https://github.com/FFaUniHan/Unity_VRoid_Export_3D_Template/blob/main/Screenshot%203.jpg)](https://www.youtube.com/watch?v=IrIn9wRYqUI "How to Export VRoid Studio Models to Unity in 7 Minutes or Less (3D/URP/HDRP)")
+[![How to Change Your Eyes and Clothes in Unity VRoid Studio in 12 Minutes or Less!](https://github.com/FFaUniHan/Unity_VRoid_VFX_Texture_Swap/blob/main/Video.jpg)](https://youtu.be/uEiPli26j4M "How to Change Your Eyes and Clothes in Unity VRoid Studio in 12 Minutes or Less!")
